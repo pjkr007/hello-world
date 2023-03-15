@@ -257,11 +257,15 @@ h1 {
     font-family:sans-serif;
     letter-spacing:4px;
     word-spacing:10px;
+    margin:0;
+    padding:10px;
+    line-height:1.5;
 }
 p {
     width:100%;
     text-align:center;
     font-family:sans-serif;
+    background-color:aqua;
     letter-spacing:.5px;
     color:black;
     padding:40px;
